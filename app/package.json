@@ -15,12 +15,8 @@
     "@mui/icons-material": "^7.0.2",
     "@mui/material": "^7.0.2",
     "framer-motion": "^12.11.3",
-    "mysql2": "^3.14.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-hook-form": "^7.56.1",
-    "react-pro-sidebar": "^1.1.0",
-    "react-router-dom": "^6.30.0",
     "react-scroll": "^1.9.3"
   },
   "devDependencies": {
